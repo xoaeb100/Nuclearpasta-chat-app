@@ -1,3 +1,4 @@
+Netlify link for the app
 https://nuclearpasta-chat-app.netlify.app/
 
 user:admin
